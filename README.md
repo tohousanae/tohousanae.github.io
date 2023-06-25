@@ -1,2 +1,2 @@
 # tohousanae.github.io
-未完成
+使用技術：html、css、javascript、bootstrap 5
